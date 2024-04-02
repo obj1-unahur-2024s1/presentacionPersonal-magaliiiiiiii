@@ -1,35 +1,48 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+## Mi nombre es MagalÃ­ Paula Gutierrez :
+* Tengo 36 aÃ±os, vivo por capital con limon, mi gato. Trabajo tambiÃ©n por caba.
+* Actualmente, soy profesora de matemÃ¡tica (nivel medio y superior). Me RecibÃ­ en el 2017 en el Joaquin V Gonzalez
+* Me gusta jugar a la pelota. Juego partidos de futsal5 femeninos y mixtos recreativamente.
+* TambiÃ©n, amo andar en bici y la naturaleza :lady_beetle:	
+* Y me gusta mucho juntarme a comer con amigues 
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión 1 **turno noche**: Martes 18 a 22hs y Sábado 10 a 12hs.
-* Horario comisión 2 **turno mañana**: Miércoles 8 a 12hs y Sábado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo González Tulian, Lucas Spigariol, Cristian Ciarallo y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappanni, Manuel Nuñez y Lucian Coniglio.
+## brevePasosPorProgramaciÃ³n
+El aÃ±o pasado (2023) arranque  a estudiar la carrera de tecnicatura universitaria en programaciÃ³n en la hunahur. 
+Pero antes, en el 2020 (pandemia) hice un curso pago virtual de la UTN, fundamentaciÃ³n a la programaciÃ³n. 
+Y me re gusto. Se lo comentÃ© a mi hermano mayor, Ã©l es ingeniero en informÃ¡tica.  
+Entonces, siguiendo un consejo de Ã©l, en el 2021 me anote en Argentina 4.0, creo que se llama asÃ­, un curso virtual que duraba 6 meses. 
+Arrancaron con el lenguaje java, fracase como una campeona. Con muchisimo esfuerzo llegue a ver ejercicios de la clase 3.
+Mi hermano criticando un poco el curso insistiÃ³ en que siga probando pero construyendo 
+bases mÃ¡s solidas. Por eso arranquÃ© la facultad, again jajaj heme aquÃ­
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+
+## Redes :
+    Discord: #magali108
 
 
 ### Referencias Markdown 
 * [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
+* [Guï¿½a Rï¿½pida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglï¿½s)_
 
 * [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+
+
+Bienvenidos a
+# Programaciï¿½n con objetos I
+
+En esta materia aprenderï¿½n sobre la famosa POO _(OOP en inglï¿½s)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
+Para ello usaremos como herramienta el lenguaje Wollok.
+
+```
+
+object programacionConObjetos { 
+    method saludar() { 
+        return  "Bienvenidxs!" 
+    }
+
+}
+```
